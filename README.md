@@ -31,4 +31,6 @@ This repo contains:
 - layers folder, with an instance (due to weight concerns) of three mexican states layer
 - images folder, with examples and visualization of the outputs
 ![Alt text](https://github.com/andrespdlr/cities_fingerprints/blob/master/images/df_map.png "Instance of Map Mexico City")
+![Alt text](https://github.com/andrespdlr/cities_fingerprints/blob/master/images/morelia_map.png "Instance of Map City of Morelia")
+![Alt text](https://github.com/andrespdlr/cities_fingerprints/blob/master/images/kernel_3edos.png "Instance of Regional Contrast on Street Patterns")
 - presentation with introduction, motivation and some results (cities_fingerprints.pdf)
