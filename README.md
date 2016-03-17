@@ -8,11 +8,13 @@ Module 1 CFPP_cities_fingerprint_Module_GIS:
 
 Performs the geographic operation and interacts with esri layers and shape files.
 
-- It assumes the existence of polygon layers
+- It assumes the existence of polygon layers  
 - It operates in three steps:
- - Select the urban blocks from mexican geography and extract nodes and centroids
- - From a polygon layer extracts nodes and centroids of the polygon
-From the original polygon layer extracts areas and from point layers (centroids and nodes) extracts coordinates.
+	- Step 0: Select the urban blocks from mexican geography and extract nodes and centroids
+	- Step 1: From a polygon layer extracts nodes and centroids of the polygon
+	- Step 2: From the original polygon layer extracts areas and from point layers
+			        (centroids and nodes) extracts coordinates.
+
 NOTE: This code can only be used in QGIS Python Console
 
 Module 2 CFPP_cities_fingerprint_Module_DATA:
