@@ -30,3 +30,4 @@ This repo contains:
 - output folder with csv output files
 - layers folder, with an instance (due to weight concerns) of three mexican states layer
 - images folder, with examples and visualization of the outputs
+- presentation with introduction, motivation and some results (cities_fingerprints.pdf)
