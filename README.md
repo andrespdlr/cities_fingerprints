@@ -21,5 +21,5 @@ Module 2 CFPP_cities_fingerprint_Module_DATA:
 
 Performs the data analysis associated with the calculation and distribution of Φ
 
-It assumes the existence of CSV files produced by MODULE_GIS
-Produces the key variable from ATSP called Φ for each block
+- It assumes the existence of CSV files produced by MODULE_GIS
+- Produces the key variable from ATSP called Φ for each block
