@@ -30,4 +30,5 @@ This repo contains:
 - output folder with csv output files
 - layers folder, with an instance (due to weight concerns) of three mexican states layer
 - images folder, with examples and visualization of the outputs
+![Alt text](https://github.com/andrespdlr/cities_fingerprints/blob/master/images/df_map.png "Instance of Map Mexico City")
 - presentation with introduction, motivation and some results (cities_fingerprints.pdf)
