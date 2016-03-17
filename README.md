@@ -23,3 +23,10 @@ Performs the data analysis associated with the calculation and distribution of Î
 
 - It assumes the existence of CSV files produced by MODULE_GIS
 - Produces the key variable from ATSP called Î¦ for each block
+
+This repo contains:
+- Module 1 script
+- Module 2 script (.py and .ipynb)
+- output folder with csv output files
+- layers folder, with an instance of three mexican states layer
+- images folder, with examples and visualization of the outputs
